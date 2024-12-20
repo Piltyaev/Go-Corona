@@ -231,7 +231,7 @@ body {
     .icon-menu::before,
     .icon-menu::after{
         content: "";
-        background-color: #000;
+        background-color: gold;
         height: 2px;
     }
 
